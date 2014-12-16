@@ -1,0 +1,10 @@
+laplacian_scale 1
+gaussian_sigmaX 0
+gaussian_sigmaY 0
+erode_kernelY 3
+gaussian_ksizeY 25
+gaussian_ksizeX 45
+erode_kernelX 3
+laplacian_ksize 13
+dilate_kernelY 5
+dilate_kernelX 3
